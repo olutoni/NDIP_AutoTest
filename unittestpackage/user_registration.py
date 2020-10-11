@@ -13,6 +13,7 @@ from selenium.common.exceptions import TimeoutException
 
 import time
 
+#including github
 class Test_Register_User(unittest.TestCase):
 
    # @classmethod
