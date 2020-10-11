@@ -14,7 +14,7 @@ from selenium.common.exceptions import TimeoutException
 import time
 
 #including github
-#new file
+
 #development branch code
 #dev deployment
 class Test_Register_User(unittest.TestCase):
